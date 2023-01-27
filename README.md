@@ -1,5 +1,5 @@
 - 👋 "Hello World", I’m Busisiwe, but if my name is a tongue twister, you can just call me Busi.
-- 👀 I’m interested in becoming a python backend developer, my interests lie in django and also AWS 
+- 👀 I’m an aspiring Cloud Engineer 
 - 🌱 I’m currently learning python and django as a framework
 
 <!---
