@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **DevOps portfolio**
 
-- 🌱 I’m currently studying for the **AWS Solutions Architect Associate exam**
+- 🌱 I’m currently studying for the **AWS Solutions Architect Associate**
 
 - 👯 I’m looking to collaborate on **AWS Cloud and DevOps projects**
 
