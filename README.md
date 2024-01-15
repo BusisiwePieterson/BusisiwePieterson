@@ -16,7 +16,8 @@
 
 📄 You can find my resume here [busisiwepieterson.link](busisiwepieterson.link)
 
-⚡ Fun fact **I am currently reading The Phoenix project**
+📖 My current read is **The Phoenix project**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
