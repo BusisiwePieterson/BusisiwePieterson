@@ -3,11 +3,18 @@
 <h3 align="center">A passionate DevOps Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" />
 
+
+- 🔭 I’m currently working on my **DevOps portfolio**
+
+- 🌱 I’m currently studying for the **AWS Solutions Architect Associate exam**
+
+- 👯 I’m looking to collaborate on **AWS Cloud and DevOps projects**
+
 - 💬 Ask me about **AWS Cloud, DevOps**
 
 - 📫 How to reach me **pietersonbusi@gmail.com**
 
-- 📄 Know about my experiences [busisiwepieterson.link](busisiwepieterson.link)
+- 📄 You can find my resume here [busisiwepieterson.link](busisiwepieterson.link)
 
 - ⚡ Fun fact **I am currently reading The Phoenix project**
 
