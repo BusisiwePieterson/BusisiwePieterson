@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busisiwepieterson&label=Profile%20views&color=0e75b6&style=flat" alt="busisiwepieterson" /> </p>
 
 
-- 🔭 I’m currently working on DevOps projects
+🔭 I’m currently working on DevOps projects
 
-- 🌱 I’m currently studying for AWS Solutions Architect Associate
+🌱 I’m currently studying for AWS Solutions Architect Associate
 
-- 👨‍💻 I'm looking for a Remote DevOps position.
+👨‍💻 I'm looking for a Remote DevOps position.
 
-- 📫 How to reach me **pietersonbusi@gmail.com**
+📫 How to reach me **pietersonbusi@gmail.com**
 
-- 📄 You can find my resume here [busisiwepieterson.link](busisiwepieterson.link)
+📄 You can find my resume here [busisiwepieterson.link](busisiwepieterson.link)
 
-- ⚡ Fun fact **I am currently reading The Phoenix project**
+⚡ Fun fact **I am currently reading The Phoenix project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
