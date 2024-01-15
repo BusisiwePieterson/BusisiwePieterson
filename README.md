@@ -1,5 +1,4 @@
 
-![MasterHead](https://www.h-x.technology/wp-content/uploads/2021/02/Devops-Infogr.gif)
 <h1 align="center">Hi 👋, I'm Busi Pieterson</h1>
 <h3 align="center">A passionate DevOps Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" />
