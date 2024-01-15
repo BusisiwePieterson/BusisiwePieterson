@@ -4,13 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" />
 
 
-- 🔭 I’m currently working on my **DevOps portfolio**
+- 🔭 I’m currently working on DevOps projects
 
-- 🌱 I’m currently studying for the **AWS Solutions Architect Associate**
+- 🌱 I’m currently studying for AWS Solutions Architect Associate
 
 - 👯 I’m looking to collaborate on **AWS Cloud and DevOps projects**
-
-- 💬 Ask me about **AWS Cloud, DevOps**
 
 - 📫 How to reach me **pietersonbusi@gmail.com**
 
