@@ -14,8 +14,6 @@
 
 📫 How to reach me **pietersonbusi@gmail.com**
 
-📄 You can find my resume here [busisiwepieterson.link](busisiwepieterson.link)
-
 📖 My current read is **The Phoenix project**
 
 
