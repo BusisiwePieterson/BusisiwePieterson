@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busisiwepieterson&label=Profile%20views&color=0e75b6&style=flat" alt="busisiwepieterson" /> </p>
 
 
-🔭 I’m currently working on DevOps projects
+🔭 I’m currently working on DevOps and Cloud projects
 
 🌱 I’m currently studying for AWS Solutions Architect Associate
 
