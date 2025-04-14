@@ -10,7 +10,7 @@
 
 🌱 I’m currently studying for AWS Solutions Architect Associate
 
-👨‍💻 I'm looking for a Remote Tech Support/DevOps or Cloud position.
+👨‍💻 I'm looking for a DevOps or Cloud position.
 
 📫 How to reach me **pietersonbusi@gmail.com**
 
