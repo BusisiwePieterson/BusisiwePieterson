@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Busi Pieterson</h1>
-<h3 align="center">A passionate DevOps Engineer from South Africa</h3>
+<h3 align="center">Versatile Web Developer and Support Specialist with DevOps and Cloud expertise. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busisiwepieterson&label=Profile%20views&color=0e75b6&style=flat" alt="busisiwepieterson" /> </p>
@@ -9,8 +9,6 @@
 🔭 I’m currently working on DevOps and Cloud projects
 
 🌱 I’m currently studying for AWS Solutions Architect Associate
-
-👨‍💻 I'm looking for a DevOps or Cloud position.
 
 📫 How to reach me **pietersonbusi@gmail.com**
 
